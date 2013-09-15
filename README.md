@@ -1,4 +1,4 @@
 processing-airplay
 ==================
 
-Processing + Airplay
+Test project that gives Processing Apple Airplay output
